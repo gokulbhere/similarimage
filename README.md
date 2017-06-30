@@ -1,2 +1,3 @@
 # similarimage
-Python script to sort images based on similarity
+Python Scripts to demonstrate how CNN can be used to extract features of an image,
+these features are then used cluter similar images
